@@ -1,6 +1,6 @@
-# copy-task [![NPM version](https://img.shields.io/npm/v/copy-task.svg)](https://www.npmjs.com/package/copy-task)
+# copy-task [![NPM version](https://img.shields.io/npm/v/copy-task.svg)](https://www.npmjs.com/package/copy-task) [![Build Status](https://img.shields.io/travis/doowb/copy-task.svg)](https://travis-ci.org/doowb/copy-task)
 
-> Copy a composer task and it's dependencies from one app to another.
+> Copy a task and it's dependencies from one app to another.
 
 ## Install
 Install with [npm](https://www.npmjs.com/):
