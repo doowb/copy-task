@@ -1,6 +1,6 @@
 {
   "name": "copy-task",
-  "description": "Copy a composer task and it's dependencies from one app to another.",
+  "description": "Copy a task and it's dependencies from one app to another.",
   "version": "0.1.0",
   "homepage": "https://github.com/doowb/copy-task",
   "author": "Brian Woodward (https://github.com/doowb)",
