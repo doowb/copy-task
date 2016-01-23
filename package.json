@@ -24,7 +24,18 @@
     "composer": "^0.8.4",
     "mocha": "^2.3.4"
   },
-  "keywords": [],
+  "keywords": [
+    "assemble",
+    "assemble-core",
+    "composer",
+    "copy",
+    "core",
+    "generate",
+    "task",
+    "tasks",
+    "update",
+    "verb"
+  ],
   "verb": {
     "related": {
       "list": [
